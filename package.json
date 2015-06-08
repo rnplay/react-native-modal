@@ -30,8 +30,5 @@
     "react-tween-state": "^0.0.5",
     "react-native-overlay": "^0.2.2",
     "react-native-blur": "^0.4.2"
-  },
-  "peerDependencies": {
-    "react-native": ">= 0.4.3"
   }
 }
